@@ -1,1 +1,2 @@
-print("Hello Git of Word Game Project.")
+# testing 01: start now
+
